@@ -1,0 +1,7 @@
+{
+  "name": "Tier List Maker",
+  "description": "一个功能强大的锐评等级制作工具，支持多图上传、拖拽排序、实时预览以及等级图导出。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
